@@ -1,5 +1,6 @@
 package fizzbuzzforalfresco.demo;
 
+import fizzbuzzforalfresco.demo.dto.Range;
 import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;

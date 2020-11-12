@@ -1,4 +1,4 @@
-package fizzbuzzforalfresco.demo;
+package fizzbuzzforalfresco.demo.dto;
 
 public class Range {
     /**
